@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Re00exe
 <p align="center">
-  <a href="https://github.com/madebypixel02">
+  <a href="https://github.com/Re00exe">
     <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/madebypixel02/madebypixel02/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/madebypixel02/madebypixel02/output/github-contribution-grid-snake.svg">
