@@ -1,12 +1,6 @@
 - 👋 Hi, I’m @Re00exe
 <p align="center">
-  <a href="https://github.com/Re00exe">
-    <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/madebypixel02/madebypixel02/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/madebypixel02/madebypixel02/output/github-contribution-grid-snake.svg">
-    <img alt="Platane's snk in light and dark mode." src="https://raw.githubusercontent.com/madebypixel02/madebypixel02/output/github-contribution-grid-snake-dark.svg">
-    </picture>
-  </a>
+  Continuously learning and improving my skills as a developer
 </p>
 
 ## Some Stats
