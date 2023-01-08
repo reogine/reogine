@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Re00exe
 <p align="center">
-  Continuously learning and improving my skills as a developer
+  <h2>Continuously learning and improving my skills as a developer</h2>
 </p>
 
 ## Some Stats
