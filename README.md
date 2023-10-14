@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Re00exe
-<p align="center">
-  <h2>Continuously learning and improving my skills as a developer</h2>
-</p>
+- 👋 Hi, I’m Reogine
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=BDBFFF&random=false&width=452&height=60&lines=Continuously+Learning" alt="Typing SVG" /></a>
 
 ## Some Stats
 
