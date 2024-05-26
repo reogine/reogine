@@ -7,7 +7,7 @@
 
 <div align="center">
   
-[![midfath's 42 stats](https://badge.mediaplus.ma/kettlebells/midfath?1337Badge=off)](https://github.com/oakoudad/badge42)
+
 
 ![Leetcode Stats](https://leetcode.card.workers.dev/reogine?theme=dark&font=source_code_pro&extension=null)
 
