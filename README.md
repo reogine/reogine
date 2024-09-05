@@ -7,10 +7,10 @@
 ## Some Stats
 
 <div align="center">
-  
-
 
 ![Leetcode Stats](https://leetcode.card.workers.dev/reogine?theme=dark&font=source_code_pro&extension=null)
+
+[![midfath's 42 stats](https://badge.mediaplus.ma/black/midfath)](https://github.com/oakoudad/badge42)
 
 </div>
 <!---
