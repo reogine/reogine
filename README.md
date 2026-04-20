@@ -22,13 +22,7 @@
 
 </div>
 
----
 
-<div align="center">
-
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=radical)
-
-</div>
 
 <!---
 Re00exe/Re00exe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
